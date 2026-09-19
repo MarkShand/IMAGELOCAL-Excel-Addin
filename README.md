@@ -6,7 +6,8 @@ Display pictures from local file paths using a worksheet formula:
 =IMAGELOCAL(A2)
 ```
 ## Demo
-<video src="./sample.mp4" controls width="800"></video>
+
+![Preview](sample.mp4)
 
 IMAGELOCAL is a VBA add-in for Windows desktop Excel. Install it once, then use the function in existing and new workbooks, including ordinary `.xlsx` files.
 

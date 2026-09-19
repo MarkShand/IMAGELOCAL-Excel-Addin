@@ -7,7 +7,7 @@ Display pictures from local file paths using a worksheet formula:
 ```
 ## Demo
 
-![Preview](sample.mp4)
+![Preview](sample.gif)
 
 IMAGELOCAL is a VBA add-in for Windows desktop Excel. Install it once, then use the function in existing and new workbooks, including ordinary `.xlsx` files.
 
